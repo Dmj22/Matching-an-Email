@@ -3,6 +3,7 @@
 </p>
 
 > Regex tutorial
+> https://gist.github.com/Dmj22/19f96ad5fb7d99ebeb8a425b982d31e4#file-matching-an-email
 
 ## Author
 
